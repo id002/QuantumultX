@@ -7,6 +7,7 @@
 > 贡献投稿：https://t.me/ddgksf2013_bot
 > 问题反馈：ddgksf2013@163.com
 > 特别提醒：如需转载请注明出处，谢谢合作！
+> https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amap.js
 ***********************************************/	
 
 
